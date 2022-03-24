@@ -12,3 +12,13 @@ I am reliable and practical and often look for new responsibilities in a variety
 * CSS\SASS
 * JavaScript (Basic)
 * Git
+## **Code Example**
+```javascript
+function inc(a,b) {
+   return a * b;
+}
+let result = inc(3,5);
+alert (result);
+```
+## **Experience**
+
