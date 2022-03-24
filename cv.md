@@ -21,4 +21,8 @@ let result = inc(3,5);
 alert (result);
 ```
 ## **Experience**
+## **Education**
+* **University:** Yanka Kupala State University of Grodno, Physics. Scientific activity
+## **English**
+Pre-Intermediate
 
