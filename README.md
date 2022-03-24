@@ -1,1 +1,1 @@
-https://lolyboom.github.io/rsschool-cv/cv
+https://lolyboom.github.io/rsschool-cv/
