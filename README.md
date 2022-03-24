@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lolyboom.github.io/rsschool-cv/cv
